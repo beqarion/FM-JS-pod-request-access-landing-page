@@ -446,7 +446,7 @@ button {
 }
 @media screen and (min-width: 1440px) {
   .banner {
-    width: 665px;
+    width: 723px;
     margin: 0;
     background: var(--black);
     padding-top: 88px;
@@ -465,6 +465,7 @@ button {
 
     font-size: 52px;
     line-height: 62px;
+    width:665px;
   }
 
   .text {
