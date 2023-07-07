@@ -427,7 +427,7 @@ button {
     position: absolute;
     bottom: 0;
     left: 32px;
-    transform:translateY(calc(100% + 8px))
+    transform: translateY(calc(100% + 8px));
   }
   button {
     background: var(--cyan);
@@ -461,10 +461,10 @@ button {
     display: grid;
   }
   .title {
-    font-size: 48px;
-    line-height: 56px;
-
     margin-bottom: 24px;
+
+    font-size: 52px;
+    line-height: 62px;
   }
 
   .text {
